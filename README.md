@@ -1,0 +1,3 @@
+## Project Description
+
+**e-commerce_data_extractor** is a tool designed to automate the extraction of product and sales data from various e-commerce platforms. It streamlines the process of collecting, organizing, and analyzing large datasets, enabling users to gain valuable insights for business intelligence, market research, and competitive analysis. The project supports multiple data sources and provides flexible export options for seamless integration with analytics workflows.
